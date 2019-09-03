@@ -1,4 +1,4 @@
 # hello-world
 This is a test
-My insterest are Machine Learning, Deep Learning, Deep Reinforcement Learning, Robotics, Modeling.
+My current insterest are Machine Learning, Deep Learning, Deep Reinforcement Learning, Robotics, Identification and Modeling.
 
